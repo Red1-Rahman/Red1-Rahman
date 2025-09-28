@@ -1,16 +1,62 @@
-## Hi there 👋
+# Hi there, I'm Redwan 👋
 
-<!--
-**Red1-Rahman/Red1-Rahman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Passionate about **Game Development, Computer Graphics, Quantum Computing, and Computational Astrophysics**.  
+I love building projects that merge science, creativity, and technology.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚡ Tech Stack
+
+### 🎮 Game Development & Computer Graphics
+<img src="https://camo.githubusercontent.com/422d30e2e22a55cd8e9ab3aefde82d96fb89e82d8dffb57dd16c3a836b6d66d8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f556e7265616c20456e67696e652d2532333131313131313f6c6f676f3d756e7265616c656e67696e65267374796c653d666f722d7468652d6261646765" />
+<img src="https://camo.githubusercontent.com/f3f12f9f9a86b01b264ab0f2dc86e1c519d835fb5b0f0de751e1f6f9ff36a2f5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4f70656e474c2d3238324333343f6c6f676f3d6f70656e676c" />
+<img src="https://camo.githubusercontent.com/5f1571318dd43259c59c57cf1f63429e2b2911d17a618bf5f9ac8febbfa2e3b5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f576562474c2d2d626c75653f6c6f676f3d776562676c" />
+<img src="https://camo.githubusercontent.com/24d0e6c25b646f6d196f9c64b04e83ac0e4fc9f8c5e4dfc2ec36cddb5dfcb0ff/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f556e6974792d2532333030333335433f6c6f676f3d756e697479" />
+<img src="https://camo.githubusercontent.com/cbfae3e2aeb3f9a4d21cc2ff1bd63ce2d493c7f3fdf5ff5e7e6f1a1517972ed1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4f70656e5553442d3030354539353f6c6f676f3d6f70656e757364" />
+<img src="https://camo.githubusercontent.com/27f861dcb4723b2f1bb53b52a25b1db17394737b3de18c289a0436d6f5d31fb2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4f6d6e6976657273652d2532334646443535413f6c6f676f3d6e7669646961" />
+
+---
+
+### 📊 Data Science & Machine Learning
+<img src="https://camo.githubusercontent.com/bc9250c2ab11f41aabbce38d01321d3f3e5d7b4c93e1cf5f4b2c5f1b44a0c1b3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f50616e6461732d3135303435383f6c6f676f3d70616e646173" />
+<img src="https://camo.githubusercontent.com/0a84f59b5e733a41a2ab78da480e8c5b2f1792264f6f5a43b44e07039e89165b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f54656e736f72666c6f772d4646394342373f6c6f676f3d74656e736f72666c6f77" />
+<img src="https://camo.githubusercontent.com/c6f47da1f51840d17e50b1970a9167795f4e8827de46f24f2f87d12e4f7d9589/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5079546f7263682d4545344137413f6c6f676f3d7079746f726368" />
+<img src="https://camo.githubusercontent.com/796bda458fc5860467cf4f23fc2084310a50d86764810f1a0e0cb6aee85cc2eb/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5363696b69742d4c6561726e2d4646393933333f6c6f676f3d7363696b69742d6c6561726e" />
+<img src="https://camo.githubusercontent.com/66cfed87eeb1a6231df4a4c92cabe9fce36db36495b7c07a9ecf94ea8e5d1837/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6174706c6f746c69622d3338353731373f6c6f676f3d6d6174706c6f746c6962" />
+<img src="https://camo.githubusercontent.com/f0f6a823635bbc1a05803426ff872cbb15a417b37a3f2395a79b3e11d8d7081b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f536561626f726e2d3945434642383f6c6f676f3d736561626f726e" />
+
+---
+
+### 🧮 Quantum Programming
+<img src="https://camo.githubusercontent.com/6f83551f9787aeafbb83d2058cf1f4e0556a83d4d76529b1a275a58fa16afdc7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f50656e6e794c616e652d6630653039393f6c6f676f3d70656e6e796c616e65" />
+<img src="https://camo.githubusercontent.com/6a482d0a5f03b722a19dc676b0fc03b9fa39d1dc9e96f8c93213e30b4b616ae9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5153696b69742d3065343939423f6c6f676f3d7169736b6974" />
+
+---
+
+### 🌌 Computational Astrophysics
+- Astropy  
+- lenstornomy  
+- bagpipes  
+- snid sage  
+- ds9  
+
+---
+
+### 🌐 App & Web Development
+<img src="https://camo.githubusercontent.com/6f69d651d81e79bb271b2d6c1ec0f1e2d0d65cd8907fbe1f7bb672d6fb82ca8a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507974686f6e2d3337373641423f6c6f676f3d707974686f6e" />
+<img src="https://camo.githubusercontent.com/3a8c07b0cbeb0fcde7c1eb7f54f08a8c8a2b3f5e23ed02277b9a23a1bbca40c7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d45524e2d3139334432303f6c6f676f3d6d65726e" />
+<img src="https://camo.githubusercontent.com/aa5f2abf96db11ef72fef98f634c3a631d87f3c8a0b0d5872b81d3459c88d53e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c61726176656c2d4646324432303f6c6f676f3d6c61726176656c" />
+
+---
+
+## 🏆 Featured Projects
+- **Quantum Galton Board** 🎲 (Quantum-inspired probability simulator)  
+- **DraQ: Astro-Escape** 🌌 (UE5 quantum-inspired game)  
+- **The Al-Codist** 🤖 (AI-powered coding assistant: Explain, Find Bugs, Refactor)  
+- **Gravitational Wave Parameter Estimator** 🌠 (Astrophysics & ML)  
+
+---
+
+## 🕹️ Game-Themed Contribution Heatmap
+
+<img src="https://raw.githubusercontent.com/yassinedoghri/github-contributions-heatmap-game/master/assets/mario-contribution-heatmap.svg" alt="Game themed contribution heatmap" width="600"/>
