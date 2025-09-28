@@ -23,10 +23,13 @@ jobs:
           github_user_name: Red1-Rahman
           outputs: dist/github-snake.svg
           
-      - name: Commit and push
+      - name: Create dist directory
+        run: mkdir -p dist
+        
+      - name: Commit and push changes
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add dist/github-snake.svg
+          git add -A
           git diff --staged --quiet || git commit -m "Update snake animation"
           git push
