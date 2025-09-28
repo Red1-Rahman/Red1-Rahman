@@ -67,6 +67,5 @@ I love building projects that merge science, creativity, and technology.
 
 ### 📈 GitHub Activity
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RedwanRahman&theme=react&area=true" height="200" alt="activity graph" />
   <img src="https://github-profile-trophy.vercel.app/?username=RedwanRahman&theme=dracula" height="200" alt="trophies" />
 </div>
