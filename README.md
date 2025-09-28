@@ -57,6 +57,5 @@ I love building projects that merge science, creativity, and technology.
 
 ---
 
-## 🕹️ Game-Themed Contribution Heatmap
+![Redwan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RedwanRahman&show_icons=true&theme=radical&count_private=true&hide_title=true&include_all_commits=true)
 
-<img src="https://raw.githubusercontent.com/yassinedoghri/github-contributions-heatmap-game/master/assets/mario-contribution-heatmap.svg" alt="Game themed contribution heatmap" width="600"/>
