@@ -1,0 +1,31 @@
+name: Generate GitHub Contribution Snake
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # runs daily at midnight
+  workflow_dispatch:      # allows manual trigger
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repo
+        uses: actions/checkout@v3
+
+      - name: Generate GitHub Snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: Red1-Rahman
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+
+      - name: Commit Generated Snake
+        run: |
+          git config user.name "${{ github.actor }}"
+          git config user.email "${{ github.actor }}@users.noreply.github.com"
+          git add dist/
+          git commit -m "Update GitHub contribution snake" || echo "No changes"
+          git push
