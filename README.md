@@ -59,3 +59,8 @@ I love building projects that merge science, creativity, and technology.
 
 ![Redwan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RedwanRahman&show_icons=true&theme=radical&count_private=true&hide_title=true&include_all_commits=true)
 
+### 📈 GitHub Activity
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RedwanRahman&theme=react&area=true" height="200" alt="activity graph" />
+  <img src="https://github-profile-trophy.vercel.app/?username=RedwanRahman&theme=dracula" height="200" alt="trophies" />
+</div>
