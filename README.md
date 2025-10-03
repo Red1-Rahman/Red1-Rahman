@@ -6,7 +6,8 @@ I love building projects that merge science, creativity, and technology.
 ---
 ### 🌟 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RedwanRahman&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=false&cache_seconds=1800" height="150" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RedwanRahman&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=false&custom_title=Redwan%20Rahman%27s%20GitHub%20Stats" height="150" alt="GitHub stats" />
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RedwanRahman&layout=compact&theme=dark&langs_count=6&hide_border=false" height="150" alt="Top languages" />
   <img src="dist/github-snake.svg" alt="GitHub Snake" />
 </div>
