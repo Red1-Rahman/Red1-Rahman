@@ -57,7 +57,7 @@ I love building projects that merge science, creativity, and technology.
 ---
 
 ### 🌐 App & Web Development
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![PennyLane](https://img.shields.io/badge/PennyLane-FF1493?logo=python&logoColor=white)
 ![MERN](https://img.shields.io/badge/MERN-3FA037?logo=react&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white)
 
