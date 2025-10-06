@@ -42,7 +42,7 @@ I love building projects that merge science, creativity, and technology.
 ---
 
 ### 🧮 Quantum Programming
-![PennyLane](https://img.shields.io/badge/PennyLane-FF1493?logo=pennylaneai&logoColor=white)
+![PennyLane](https://img.shields.io/badge/PennyLane-FF1493?logo=pennylane&logoColor=white)
 ![Qiskit](https://img.shields.io/badge/Qiskit-6929C4?logo=qiskit&logoColor=white)
 
 ---
