@@ -51,8 +51,7 @@ I love building projects that merge science, creativity, and technology.
 ![Astropy](https://img.shields.io/badge/Astropy-3776AB?logo=python&logoColor=white)
 ![lenstornomy](https://img.shields.io/badge/lenstornomy-3776AB?logo=python&logoColor=white)
 ![bagpipes](https://img.shields.io/badge/bagpipes-3776AB?logo=python&logoColor=white)
-![snid](https://img.shields.io/badge/snid-333333?logo=gnometerminal&logoColor=white)
-![sage](https://img.shields.io/badge/sage-333333?logo=gnometerminal&logoColor=white)
+![snid-sage](https://img.shields.io/badge/snid-333333?logo=gnometerminal&logoColor=white)
 ![ds9](https://img.shields.io/badge/ds9-333333?logo=gnometerminal&logoColor=white)
 
 ---
