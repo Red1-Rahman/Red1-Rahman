@@ -1,6 +1,6 @@
 # Hi there, I'm Redwan Rahman👋
-
-🚀 Passionate about **Game Development, Computer Graphics, Quantum Computing, Machine Learning and Computational Astrophysics**.  
+I love coding!
+Passionate about **Game Development, Computer Graphics, Quantum Computing, Machine Learning and Computational Astrophysics**.  
 I love building projects that merge science, creativity, and technology.  
 
 ---
