@@ -68,7 +68,8 @@ I love building projects that merge science, creativity, and technology.
 - **Quantum Galton Board** 🎲 (Quantum-inspired probability simulator)  
 - **DraQ: Astro-Escape** 🌌 (UE5 quantum-inspired game)  
 - **The Al-Codist** 🤖 (AI-powered coding assistant: Explain, Find Bugs, Refactor)  
-- **Gravitational Wave Parameter Estimator** 🌠 (Astrophysics & ML)  
+- **Gravitational Wave Parameter Estimator** 🌠 (Astrophysics & ML)
+- **Astro-AI** 🌌 (AI-integrated galaxy evolution platform with 21cmFAST simulations, JWST spectral analysis, Bagpipes SED fitting, and automated scientific reporting)  
 
 ---
 
