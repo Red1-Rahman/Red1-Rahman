@@ -77,3 +77,11 @@ I love building projects that merge science, creativity, and technology.
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Red1-Rahman&theme=dracula" height="200" alt="trophies" />
 </div>
+
+---
+
+<div align="center">
+  <img src="https://media.giphy.com/media/Vuw9m5wXviFIQ/giphy.gif" width="300" alt="Rickroll" />
+  
+  <p><b>Curiosity gets you rickrolled 😏</b></p>
+</div>
