@@ -2,7 +2,9 @@
 I love coding!
 
 Passionate about **Game Development, Computer Graphics, Quantum Computing, Machine Learning and Computational Astrophysics**.  
-I love building projects that merge science, creativity, and technology.  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00FF66&center=true&vCenter=true&width=600&lines=Game+Development;Data+Science;Quantum+and+Astrophysics;Research+Tools;Web+Development" alt="Typing SVG"/>
+</p>
 
 ---
 ### 🌟 GitHub Stats
@@ -19,6 +21,7 @@ I love building projects that merge science, creativity, and technology.
     <img alt="GitHub Snake" src="dist/github-snake.svg" />
   </picture>
 </div>
+
 
 ## ⚡ Tech Stack
 
