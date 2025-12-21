@@ -74,12 +74,6 @@ Passionate about **Game Development, Computer Graphics, Quantum Computing, Machi
 - **Gravitational Wave Parameter Estimator** 🌠 (Astrophysics & ML)
 - **Astro-AI** 🌌 (AI-integrated galaxy evolution platform with 21cmFAST simulations, JWST spectral analysis, Bagpipes SED fitting, and automated scientific reporting)  
 
----
-
-### 📈 GitHub Activity
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Red1-Rahman&theme=dracula" height="200" alt="trophies" />
-</div>
 
 ---
 
