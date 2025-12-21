@@ -73,7 +73,9 @@ Passionate about **Game Development, Computer Graphics, Quantum Computing, Machi
 - **The Al-Codist** 🤖 (AI-powered coding assistant: Explain, Find Bugs, Refactor)  
 - **Gravitational Wave Parameter Estimator** 🌠 (Astrophysics & ML)
 - **Astro-AI** 🌌 (AI-integrated galaxy evolution platform with 21cmFAST simulations, JWST spectral analysis, Bagpipes SED fitting, and automated scientific reporting)  
-
+- **Sanatan Scriptures** 📜 Interactive web platform exploring Sanatan Dharma scriptures  
+- **Muslim Buddy** 🕌 Laravel web app for spiritual tracking (astronomical prayer time calculation, Quran progress, community leaderboards)  
+- **Mini Game Script Interpreter (DSL)** 🎮 Minimal C-like game scripting language built with Flex & Bison  
 
 ---
 
