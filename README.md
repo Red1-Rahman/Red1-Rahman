@@ -1,7 +1,7 @@
 # Hi there, I'm Redwan Rahman👋
 I love coding!
 
-Passionate about **Game Development, Computer Graphics, Quantum Computing, Machine Learning and Computational Astrophysics**.  
+Passionate about **Game Development, Graphics Programming, Quantum Computing, Machine Learning and Computational Astrophysics**.  
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00FF66&center=true&vCenter=true&width=600&lines=Game+Development;Data+Science;Quantum+and+Astrophysics;Research+Tools;Web+Development" alt="Typing SVG"/>
 </p>
