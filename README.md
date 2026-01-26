@@ -12,7 +12,8 @@ Passionate about **Game Development, Graphics Programming, Quantum Computing, Ma
   <!-- GitHub Stats -->
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Red1-Rahman&show_icons=true&theme=dark&hide_border=false" height="150" alt="GitHub stats" />
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Red1-Rahman&layout=compact&theme=dark&langs_count=6&hide_border=false" height="150" alt="Top languages" />
-  ![GitHub Streak](https://streak-stats.demolab.com/svg?user=Red1-Rahman&theme=dark)
+  <img src="https://streak-stats.demolab.com/svg?user=Red1-Rahman&theme=dark" height="150" alt="GitHub streak" />
+
 
    
 
