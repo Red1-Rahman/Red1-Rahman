@@ -137,7 +137,10 @@ Passionate about **Game Development, Graphics Programming, Quantum Computing, Ma
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/Vuw9m5wXviFIQ/giphy.gif" width="300" alt="Rickroll" />
+  <img src="https://media.giphy.com/media/Vuw9m5wXviFIQ/giphy.gif" width="600" alt="Rickroll" />
   
-  <p><b>Curiosity gets you rickrolled 😏</b></p>
+  <p align="center">
+    <b>Curiosity gets you rickrolled 😏</b><br>
+    <i>(If you are a recruiter, hire me or God won't forgive you)</i>
+  </p>
 </div>
