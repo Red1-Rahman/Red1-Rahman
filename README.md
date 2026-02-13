@@ -71,15 +71,68 @@ Passionate about **Game Development, Graphics Programming, Quantum Computing, Ma
 ---
 
 ## 🏆 Featured Projects
-- **Quantum Galton Board** 🎲 (Quantum-inspired probability simulator)  
-- **DraQ: Astro-Escape** 🌌 (UE5 quantum-inspired game)  
-- **The Al-Codist** 🤖 (AI-powered coding assistant: Explain, Find Bugs, Refactor)  
-- **Gravitational Wave Parameter Estimator** 🌠 (Astrophysics & ML)
-- **Astro-AI** 🌌 (AI-integrated galaxy evolution platform with 21cmFAST simulations, JWST spectral analysis, Bagpipes SED fitting, and automated scientific reporting)  
-- **Sanatan Scriptures** 📜 Interactive web platform exploring Sanatan Dharma scriptures  
-- **Muslim Buddy** 🕌 Laravel web app for spiritual tracking (astronomical prayer time calculation, Quran progress, community leaderboards)  
-- **Mini Game Script Interpreter (DSL)** 🎮 Minimal C-like game scripting language built with Flex & Bison
-- **Mobile Game Engine** A Dart/Flutter based 2D mobile game engine for mobile devices   
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+<h3>🚀 PromptEval</h3>
+<p>LLM evaluation tool with automated test case generation and real-time grading via Groq API for prompt optimization.</p>
+<code>Groq API</code> <code>LLMs</code> <code>Automation</code>
+</td>
+<td width="50%" valign="top">
+<h3>🎲 Quantum Galton Board</h3>
+<p>A quantum-inspired probability simulator exploring wave-function collapses through a digital Galton board.</p>
+<code>Python</code> <code>Qiskit</code> <code>NumPy</code>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>🌌 DraQ: Astro-Escape</h3>
+<p>An immersive UE5 experience blending quantum mechanics with high-octane space exploration gameplay.</p>
+<code>Unreal Engine 5</code> <code>C++</code> <code>Blueprints</code>
+</td>
+<td width="50%" valign="top">
+<h3>🤖 The Al-Codist</h3>
+<p>AI-powered assistant specialized in refactoring, bug-hunting, and explaining complex codebases.</p>
+<code>Machine Learning</code> <code>Python</code> <code>NLP</code>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>🌠 GW Parameter Estimator</h3>
+<p>Leveraging ML to estimate parameters of gravitational waves from astronomical signal data.</p>
+<code>Astropy</code> <code>TensorFlow</code> <code>Physics</code>
+</td>
+<td width="50%" valign="top">
+<h3>🔭 Astro-AI</h3>
+<p>Integrated galaxy evolution platform featuring JWST analysis, Bagpipes SED fitting, and 21cmFAST simulations.</p>
+<code>Astrophysics</code> <code>Bagpipes</code> <code>Simulation</code>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>🎮 Mini Game DSL</h3>
+<p>A custom C-like scripting language for games, architected from scratch using Flex and Bison.</p>
+<code>C++</code> <code>Flex/Bison</code> <code>Compilers</code>
+</td>
+<td width="50%" valign="top">
+<h3>📱 Mobile Game Engine</h3>
+<p>A Dart/Flutter based 2D mobile game engine designed for high-performance mobile devices.</p>
+<code>Dart</code> <code>Flutter</code> <code>Game Engine</code>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>🕌 Muslim Buddy</h3>
+<p>Spiritual tracking platform with astronomical prayer calculations and community leaderboards.</p>
+<code>Laravel</code> <code>PHP</code> <code>Astronomy API</code>
+</td>
+<td width="50%" valign="top">
+<h3>📜 Sanatan Scriptures</h3>
+<p>Interactive web platform for exploring and analyzing ancient Sanatan Dharma texts.</p>
+<code>MERN Stack</code> <code>React</code> <code>Database</code>
+</td>
+</tr>
+</table>
 
 ---
 
