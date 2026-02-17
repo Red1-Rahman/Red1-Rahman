@@ -129,7 +129,7 @@ Passionate about **AI/LLM, Game Development, Graphics Programming, Quantum Compu
 <td width="50%" valign="top">
 <h3>📜 Sanatan Scriptures</h3>
 <p>Interactive web platform for exploring and analyzing ancient Sanatan Dharma texts.</p>
-<code>MERN Stack</code> <code>React</code> <code>Database</code>
+<code>Laravel</code> <code>Php</code> <code>Database</code>
 </td>
 </tr>
 </table>
