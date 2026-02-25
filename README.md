@@ -28,6 +28,80 @@ Passionate about **AI/LLM, Game Development, Graphics Programming, Quantum Compu
 
 ## ⚡ Tech Stack
 
+### 💻 Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2FC%2B%2B-00599C?logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white)
+
+---
+
+### 🤖 LLM & Generative AI
+![LLMs](https://img.shields.io/badge/Large%20Language%20Models-FF6B35?logo=openai&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-7B2FBE?logo=openai&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-0052CC?logo=databricks&logoColor=white)
+![Fine-tuning](https://img.shields.io/badge/Fine--Tuning-FF4500?logo=pytorch&logoColor=white)
+![Embeddings](https://img.shields.io/badge/Embeddings-00897B?logo=openai&logoColor=white)
+![LLM Evaluation](https://img.shields.io/badge/LLM%20Evaluation-333333?logo=checkmarx&logoColor=white)
+![Groq API](https://img.shields.io/badge/Groq%20API-F55036?logo=groq&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21F?logo=huggingface&logoColor=black)
+
+---
+
+### 📊 Data Science & Machine Learning
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikitlearn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-385171?logo=plotly&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-9ECFB8?logo=python&logoColor=white)
+
+---
+
+### 🧠 Deep Learning & Neural Architectures
+![CNNs](https://img.shields.io/badge/CNNs-EE4C2C?logo=pytorch&logoColor=white)
+![RNNs](https://img.shields.io/badge/RNNs-FF6F00?logo=tensorflow&logoColor=white)
+![Transformers](https://img.shields.io/badge/Transformers-FFD21F?logo=huggingface&logoColor=black)
+![ANNs](https://img.shields.io/badge/ANNs-D00000?logo=keras&logoColor=white)
+![Decision Trees](https://img.shields.io/badge/Decision%20Trees-228B22?logo=scikitlearn&logoColor=white)
+![Random Forest](https://img.shields.io/badge/Random%20Forest-2E7D32?logo=scikitlearn&logoColor=white)
+![Ensemble Methods](https://img.shields.io/badge/Ensemble%20Methods-1B5E20?logo=scikitlearn&logoColor=white)
+
+---
+
+### 🕹️ Reinforcement Learning & Computer Vision
+![PPO](https://img.shields.io/badge/PPO-0052CC?logo=openai&logoColor=white)
+![A2C](https://img.shields.io/badge/A2C-003580?logo=openai&logoColor=white)
+![OpenAI Gym](https://img.shields.io/badge/OpenAI%20Gym-0081A5?logo=openai&logoColor=white)
+![Unity ML-Agents](https://img.shields.io/badge/Unity%20ML--Agents-000000?logo=unity&logoColor=white)
+![Image Classification](https://img.shields.io/badge/Image%20Classification-5586A4?logo=opencv&logoColor=white)
+![Object Detection](https://img.shields.io/badge/Object%20Detection-FF6600?logo=opencv&logoColor=white)
+![Grad-CAM](https://img.shields.io/badge/Grad--CAM-B71C1C?logo=python&logoColor=white)
+
+---
+
+### 🚀 MLOps & Deployment
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-005EA2?logo=fastapi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Amazon SageMaker](https://img.shields.io/badge/Amazon%20SageMaker-FF9900?logo=amazonaws&logoColor=white)
+![Google Vertex AI](https://img.shields.io/badge/Vertex%20AI-4285F4?logo=googlecloud&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+
+---
+
+### 🔍 Data & Explainable AI (XAI)
+![SHAP](https://img.shields.io/badge/SHAP-FF6B6B?logo=python&logoColor=white)
+![LIME](https://img.shields.io/badge/LIME-4CAF50?logo=python&logoColor=white)
+![ELI5](https://img.shields.io/badge/ELI5-FFA726?logo=python&logoColor=white)
+![Feature Engineering](https://img.shields.io/badge/Feature%20Engineering-7B1FA2?logo=python&logoColor=white)
+![Data Augmentation](https://img.shields.io/badge/Data%20Augmentation-00838F?logo=python&logoColor=white)
+
+---
+
 ### 🎮 Game Development & Computer Graphics
 ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-111111?logo=unrealengine&logoColor=white)
 ![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?logo=opengl&logoColor=white)
@@ -38,19 +112,10 @@ Passionate about **AI/LLM, Game Development, Graphics Programming, Quantum Compu
 
 ---
 
-### 📊 Data Science & Machine Learning
-![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikitlearn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-385171?logo=plotly&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-9ECFB8?logo=python&logoColor=white)
-
----
-
-### 🧮 Quantum Programming
+### 🧮 Quantum Computing & Quantum ML
 ![PennyLane](https://img.shields.io/badge/PennyLane-FF1493?logo=python&logoColor=white)
 ![Qiskit](https://img.shields.io/badge/Qiskit-6929C4?logo=qiskit&logoColor=white)
+![Quantum ML](https://img.shields.io/badge/Quantum%20Machine%20Learning-6929C4?logo=qiskit&logoColor=white)
 
 ---
 
@@ -64,7 +129,6 @@ Passionate about **AI/LLM, Game Development, Graphics Programming, Quantum Compu
 ---
 
 ### 🌐 App & Web Development
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![MERN](https://img.shields.io/badge/MERN-3FA037?logo=react&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white)
 
