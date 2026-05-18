@@ -205,6 +205,5 @@ Passionate about **AI/LLM, Game Development, Graphics Programming, Quantum Compu
   
   <p align="center">
     <b>Curiosity gets you rickrolled 😏</b><br>
-    <i>(If you are a recruiter, hire me or God won't forgive you)</i>
   </p>
 </div>
