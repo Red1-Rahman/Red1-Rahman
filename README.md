@@ -82,7 +82,7 @@ Passionate about **AI/LLM, Game Development, Graphics Programming, Quantum Compu
 
 ---
 
-### 🚀 MLOps & Deployment
+### 🚀 MLOps & Deployment (Basics)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST%20APIs-005EA2?logo=fastapi&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)
