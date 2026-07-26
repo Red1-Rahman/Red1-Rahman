@@ -49,7 +49,7 @@ Passionate about **AI/ML, AI/LLM, Game AI, Quantum Computing, MLOPS and LLMOPS**
 ![Lucene](https://img.shields.io/badge/Lucene-000000?logo=apachelucene&logoColor=white)
 ![Groq](https://img.shields.io/badge/Groq%20API-F55036?logo=groq&logoColor=white)
 ![OpenRouter](https://img.shields.io/badge/OpenRouter-6E56CF?logo=openai&logoColor=white)
-![Portkey](https://img.shields.io/badge/Portkey-000000?logo=data:image/svg%2bxml;base64,&logoColor=white)
+![Portkey](https://img.shields.io/badge/Portkey-000000?style=flat&logoColor=white)
 ![LoRA](https://img.shields.io/badge/LoRA%20Fine--Tuning-FF4500?logo=pytorch&logoColor=white)
 
 ### Machine Learning & Deep Learning
