@@ -216,6 +216,17 @@ Passionate about **AI/ML, AI/LLM, Game AI, Quantum Computing, MLOPS and LLMOPS**
 
 ---
 
+## ⚙️ Engineering Philosophy
+
+I build with production reliability in mind from day one, not as an afterthought.
+
+- **Type-safe by default** — Pydantic-first data validation across services and AI pipelines
+- **Standards-aligned** — engineering practices informed by ISO/IEC/IEEE conventions, the ACM Code of Ethics, and Washington Accord competency principles
+- **Open source minded** — clean documentation, reproducible experiments, CI-backed workflows
+- **Research mindset** — comfortable moving between shipped product code and experimental AI/ML research
+
+---
+
 <div align="center">
   <img src="https://media.giphy.com/media/Vuw9m5wXviFIQ/giphy.gif" width="600" alt="Rickroll" />
   
