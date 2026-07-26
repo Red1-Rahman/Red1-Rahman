@@ -41,7 +41,7 @@ Passionate about **AI/ML, AI/LLM, Game AI, Quantum Computing, MLOPS and LLMOPS**
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21F?logo=huggingface&logoColor=black)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?logo=langchain&logoColor=white)
 ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-000000?logo=llama&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B6B?logo=databricks&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-7B61FF)
 ![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?logo=qdrant&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
 ![RedisVL](https://img.shields.io/badge/RedisVL-DC382D?logo=redis&logoColor=white)
@@ -99,8 +99,6 @@ Passionate about **AI/ML, AI/LLM, Game AI, Quantum Computing, MLOPS and LLMOPS**
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?logo=googlecloud&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?logo=githubcopilot&logoColor=white)
-![OpenAI Codex](https://img.shields.io/badge/OpenAI%20Codex-412991?logo=openai&logoColor=white)
 
 ### Tooling & Quality
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)
@@ -144,6 +142,11 @@ Passionate about **AI/ML, AI/LLM, Game AI, Quantum Computing, MLOPS and LLMOPS**
 ### 🌐 App & Web Development
 ![MERN](https://img.shields.io/badge/MERN-3FA037?logo=react&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white)
+
+### AI Coding Assistants
+
+![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?logo=githubcopilot&logoColor=white)
+![OpenAI Codex](https://img.shields.io/badge/OpenAI%20Codex-412991?logo=openai&logoColor=white)
 
 ---
 
