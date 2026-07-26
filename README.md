@@ -38,7 +38,6 @@ Passionate about **AI/ML, AI/LLM, Game AI, Quantum Computing, MLOPS and LLMOPS**
 ---
 
 ### LLM, RAG & Retrieval
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21F?logo=huggingface&logoColor=black)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?logo=langchain&logoColor=white)
 ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-000000?logo=llama&logoColor=white)
@@ -54,6 +53,7 @@ Passionate about **AI/ML, AI/LLM, Game AI, Quantum Computing, MLOPS and LLMOPS**
 ![LoRA](https://img.shields.io/badge/LoRA%20Fine--Tuning-FF4500?logo=pytorch&logoColor=white)
 
 ### Machine Learning & Deep Learning
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikitlearn&logoColor=white)
 ![SpaCy](https://img.shields.io/badge/spaCy-09A3D5?logo=spacy&logoColor=white)
