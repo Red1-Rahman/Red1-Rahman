@@ -1,165 +1,177 @@
-# Hi there, I'm Redwan Rahman👋
+# Hi there, I'm Redwan Rahman! 👋
 
-Fresh CSE Graduate building production ready AI Systems, AI Evaluation Frameworks. Conducting research on Game AI or AI for Game Development.
+Fresh CSE graduate building **production-ready AI systems and AI evaluation frameworks**. Conducting research in **Game AI and AI for Game Development**.
 
 ---
 
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="dist/github-snake. svg" />
-    <img alt="GitHub Snake" src="dist/github-snake.svg" />
-  </picture>
-  <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00FF66&center=true&vCenter=true&width=600&lines=Retrieval-Augmented+Generation;LLM+Evaluation+%26+Fine-Tuning;Vector+Search+%26+Hybrid+Retrieval;Explainable+AI+%2F+Production+MLOps;Reinforcement+Learning+Research;GameAI;Deep+Learnig" alt="Typing SVG"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg" />
+  <img alt="GitHub Snake" src="dist/github-snake.svg" />
+</picture>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00FF66&center=true&vCenter=true&width=600&lines=Retrieval-Augmented+Generation;LLM+Evaluation+%26+Fine-Tuning;Vector+Search+%26+Hybrid+Retrieval;Explainable+AI+%2F+Production+MLOps;Reinforcement+Learning+Research;Game+AI;Deep+Learning" alt="Typing SVG" />
 </p>
+
 <div align="center">
   <a href="https://streak-stats.demolab.com/?user=Red1-Rahman">
     <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=Red1-Rahman&show_icons=true&theme=dark&hide_border=false" height="150" alt="GitHub Streak" />
   </a>
 </div>
-   
-
-</div>
-
 
 ## ⚡ Tech Stack
 
 ### 💻 Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2FC%2B%2B-00599C?logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white)
+
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python\&logoColor=white)
+![C++](https://img.shields.io/badge/C%2FC%2B%2B-00599C?logo=cplusplus\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript\&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql\&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash\&logoColor=white)
 
 ---
 
 ### LLM, RAG & Retrieval
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21F?logo=huggingface&logoColor=black)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?logo=langchain&logoColor=white)
-![LlamaIndex](https://img.shields.io/badge/LlamaIndex-000000?logo=llama&logoColor=white)
+
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21F?logo=huggingface\&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?logo=langchain\&logoColor=white)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-000000?logo=llama\&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-7B61FF)
-![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?logo=qdrant&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
-![RedisVL](https://img.shields.io/badge/RedisVL-DC382D?logo=redis&logoColor=white)
-![BM25](https://img.shields.io/badge/BM25-333333?logo=elasticsearch&logoColor=white)
-![Lucene](https://img.shields.io/badge/Lucene-000000?logo=apachelucene&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq%20API-F55036?logo=groq&logoColor=white)
-![OpenRouter](https://img.shields.io/badge/OpenRouter-6E56CF?logo=openai&logoColor=white)
-![Portkey](https://img.shields.io/badge/Portkey-000000?style=flat&logoColor=white)
-![LoRA](https://img.shields.io/badge/LoRA%20Fine--Tuning-FF4500?logo=pytorch&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?logo=qdrant\&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis\&logoColor=white)
+![RedisVL](https://img.shields.io/badge/RedisVL-DC382D?logo=redis\&logoColor=white)
+![BM25](https://img.shields.io/badge/BM25-333333?logo=elasticsearch\&logoColor=white)
+![Lucene](https://img.shields.io/badge/Lucene-000000?logo=apachelucene\&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq%20API-F55036?logo=groq\&logoColor=white)
+![OpenRouter](https://img.shields.io/badge/OpenRouter-6E56CF?logo=openai\&logoColor=white)
+![Portkey](https://img.shields.io/badge/Portkey-000000?style=flat\&logoColor=white)
+![LoRA](https://img.shields.io/badge/LoRA%20Fine--Tuning-FF4500?logo=pytorch\&logoColor=white)
 
 ### Machine Learning & Deep Learning
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikitlearn&logoColor=white)
-![SpaCy](https://img.shields.io/badge/spaCy-09A3D5?logo=spacy&logoColor=white)
-![NLTK](https://img.shields.io/badge/NLTK-3776AB?logo=python&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-1F77B4?logo=python&logoColor=white)
-![CatBoost](https://img.shields.io/badge/CatBoost-FFCC00?logo=python&logoColor=black)
-![OpenAI CLIP](https://img.shields.io/badge/OpenAI%20CLIP-412991?logo=openai&logoColor=white)
-![ONNX](https://img.shields.io/badge/ONNX-005CED?logo=onnx&logoColor=white)
-![TensorRT](https://img.shields.io/badge/TensorRT-76B900?logo=nvidia&logoColor=white)
-![TorchScript](https://img.shields.io/badge/TorchScript-EE4C2C?logo=pytorch&logoColor=white)
-![Mixed Precision](https://img.shields.io/badge/Mixed%20Precision%20FP16%2FFP32-EE4C2C?logo=pytorch&logoColor=white)
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch\&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow\&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikitlearn\&logoColor=white)
+![spaCy](https://img.shields.io/badge/spaCy-09A3D5?logo=spacy\&logoColor=white)
+![NLTK](https://img.shields.io/badge/NLTK-3776AB?logo=python\&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-1F77B4?logo=python\&logoColor=white)
+![CatBoost](https://img.shields.io/badge/CatBoost-FFCC00?logo=python\&logoColor=black)
+![OpenAI CLIP](https://img.shields.io/badge/OpenAI%20CLIP-412991?logo=openai\&logoColor=white)
+![ONNX](https://img.shields.io/badge/ONNX-005CED?logo=onnx\&logoColor=white)
+![TensorRT](https://img.shields.io/badge/TensorRT-76B900?logo=nvidia\&logoColor=white)
+![TorchScript](https://img.shields.io/badge/TorchScript-EE4C2C?logo=pytorch\&logoColor=white)
+![Mixed Precision](https://img.shields.io/badge/Mixed%20Precision%20FP16%2FFP32-EE4C2C?logo=pytorch\&logoColor=white)
 
 ### Explainable AI
-![SHAP](https://img.shields.io/badge/SHAP-FF6B6B?logo=python&logoColor=white)
-![LIME](https://img.shields.io/badge/LIME-4CAF50?logo=python&logoColor=white)
-![ELI5](https://img.shields.io/badge/ELI5-FFA726?logo=python&logoColor=white)
-![Grad-CAM](https://img.shields.io/badge/Grad--CAM-B71C1C?logo=python&logoColor=white)
+
+![SHAP](https://img.shields.io/badge/SHAP-FF6B6B?logo=python\&logoColor=white)
+![LIME](https://img.shields.io/badge/LIME-4CAF50?logo=python\&logoColor=white)
+![ELI5](https://img.shields.io/badge/ELI5-FFA726?logo=python\&logoColor=white)
+![Grad-CAM](https://img.shields.io/badge/Grad--CAM-B71C1C?logo=python\&logoColor=white)
 
 ### Reinforcement Learning & Simulation
-![Stable-Baselines3](https://img.shields.io/badge/Stable--Baselines3-0052CC?logo=openai&logoColor=white)
-![OpenAI Gym](https://img.shields.io/badge/OpenAI%20Gym-0081A5?logo=openai&logoColor=white)
-![Unity ML-Agents](https://img.shields.io/badge/Unity%20ML--Agents-000000?logo=unity&logoColor=white)
-![Unreal Learning Agents](https://img.shields.io/badge/Unreal%20Learning%20Agents-0E1128?logo=unrealengine&logoColor=white)
-![PyCUDA](https://img.shields.io/badge/PyCUDA-76B900?logo=nvidia&logoColor=white)
+
+![Stable-Baselines3](https://img.shields.io/badge/Stable--Baselines3-0052CC?logo=openai\&logoColor=white)
+![OpenAI Gym](https://img.shields.io/badge/OpenAI%20Gym-0081A5?logo=openai\&logoColor=white)
+![Unity ML-Agents](https://img.shields.io/badge/Unity%20ML--Agents-000000?logo=unity\&logoColor=white)
+![Unreal Learning Agents](https://img.shields.io/badge/Unreal%20Learning%20Agents-0E1128?logo=unrealengine\&logoColor=white)
+![PyCUDA](https://img.shields.io/badge/PyCUDA-76B900?logo=nvidia\&logoColor=white)
 
 ### Backend, APIs & Data
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)
-![Pydantic](https://img.shields.io/badge/Pydantic-E92063?logo=pydantic&logoColor=white)
-![PydanticAI](https://img.shields.io/badge/PydanticAI-E92063?logo=pydantic&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?logo=python&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
-![MongoDB Atlas](https://img.shields.io/badge/MongoDB%20Atlas-47A248?logo=mongodb&logoColor=white)
-![Uvicorn](https://img.shields.io/badge/Uvicorn-499848?logo=gunicorn&logoColor=white)
-![Inngest](https://img.shields.io/badge/Inngest-000000?logo=inngest&logoColor=white)
-![Upstash](https://img.shields.io/badge/Upstash-00E9A3?logo=upstash&logoColor=black)
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi\&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?logo=flask\&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?logo=pydantic\&logoColor=white)
+![PydanticAI](https://img.shields.io/badge/PydanticAI-E92063?logo=pydantic\&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?logo=python\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql\&logoColor=white)
+![MongoDB Atlas](https://img.shields.io/badge/MongoDB%20Atlas-47A248?logo=mongodb\&logoColor=white)
+![Uvicorn](https://img.shields.io/badge/Uvicorn-499848?logo=gunicorn\&logoColor=white)
+![Inngest](https://img.shields.io/badge/Inngest-000000?logo=inngest\&logoColor=white)
+![Upstash](https://img.shields.io/badge/Upstash-00E9A3?logo=upstash\&logoColor=black)
 
 ### MLOps, Cloud & DevOps
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?logo=googlecloud&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white)
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker\&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes\&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws\&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure\&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?logo=googlecloud\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git\&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions\&logoColor=white)
 
 ### Tooling & Quality
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)
-![Gradio](https://img.shields.io/badge/Gradio-FF7C00?logo=gradio&logoColor=white)
-![pytest](https://img.shields.io/badge/pytest-0A9EDC?logo=pytest&logoColor=white)
-![Ruff](https://img.shields.io/badge/Ruff-D7FF64?logo=ruff&logoColor=black)
-![mypy](https://img.shields.io/badge/mypy-2A6DB2?logo=python&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)
-![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-385171?logo=plotly&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-9ECFB8?logo=python&logoColor=white)
+
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit\&logoColor=white)
+![Gradio](https://img.shields.io/badge/Gradio-FF7C00?logo=gradio\&logoColor=white)
+![pytest](https://img.shields.io/badge/pytest-0A9EDC?logo=pytest\&logoColor=white)
+![Ruff](https://img.shields.io/badge/Ruff-D7FF64?logo=ruff\&logoColor=black)
+![mypy](https://img.shields.io/badge/mypy-2A6DB2?logo=python\&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter\&logoColor=white)
+![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle\&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-385171?logo=plotly\&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?logo=plotly\&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-9ECFB8?logo=python\&logoColor=white)
 
 ### Game Dev & Graphics
-![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-111111?logo=unrealengine&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white)
-![Houdini](https://img.shields.io/badge/Houdini-FF4713?logo=houdini&logoColor=white)
-![PyGame](https://img.shields.io/badge/PyGame-000000?logo=python&logoColor=white)
-![PyOpenGL](https://img.shields.io/badge/PyOpenGL-5586A4?logo=opengl&logoColor=white)
-![OpenUSD](https://img.shields.io/badge/OpenUSD-005E95?logo=usd&logoColor=white)
-![NVIDIA Omniverse](https://img.shields.io/badge/Omniverse-76B900?logo=nvidia&logoColor=white)
+
+![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-111111?logo=unrealengine\&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?logo=unity\&logoColor=white)
+![Houdini](https://img.shields.io/badge/Houdini-FF4713?logo=houdini\&logoColor=white)
+![PyGame](https://img.shields.io/badge/Pygame-000000?logo=python\&logoColor=white)
+![PyOpenGL](https://img.shields.io/badge/PyOpenGL-5586A4?logo=opengl\&logoColor=white)
+![OpenUSD](https://img.shields.io/badge/OpenUSD-005E95?logo=usd\&logoColor=white)
+![NVIDIA Omniverse](https://img.shields.io/badge/Omniverse-76B900?logo=nvidia\&logoColor=white)
 
 ---
 
 ### 🧮 Quantum Computing & Quantum ML
-![PennyLane](https://img.shields.io/badge/PennyLane-FF1493?logo=python&logoColor=white)
-![Qiskit](https://img.shields.io/badge/Qiskit-6929C4?logo=qiskit&logoColor=white)
-![Quantum ML](https://img.shields.io/badge/Quantum%20Machine%20Learning-6929C4?logo=qiskit&logoColor=white)
+
+![PennyLane](https://img.shields.io/badge/PennyLane-FF1493?logo=python\&logoColor=white)
+![Qiskit](https://img.shields.io/badge/Qiskit-6929C4?logo=qiskit\&logoColor=white)
+![Quantum ML](https://img.shields.io/badge/Quantum%20Machine%20Learning-6929C4?logo=qiskit\&logoColor=white)
 
 ---
 
 ### 🌌 Computational Astrophysics
-![Astropy](https://img.shields.io/badge/Astropy-3776AB?logo=python&logoColor=white)
-![lenstornomy](https://img.shields.io/badge/lenstornomy-3776AB?logo=python&logoColor=white)
-![bagpipes](https://img.shields.io/badge/bagpipes-3776AB?logo=python&logoColor=white)
-![snid sage](https://img.shields.io/badge/snid--sage-333333?logo=gnometerminal&logoColor=white)
-![ds9](https://img.shields.io/badge/ds9-333333?logo=gnometerminal&logoColor=white)
+
+![Astropy](https://img.shields.io/badge/Astropy-3776AB?logo=python\&logoColor=white)
+![lenstornomy](https://img.shields.io/badge/lenstornomy-3776AB?logo=python\&logoColor=white)
+![bagpipes](https://img.shields.io/badge/bagpipes-3776AB?logo=python\&logoColor=white)
+![snid sage](https://img.shields.io/badge/snid--sage-333333?logo=gnometerminal\&logoColor=white)
+![DS9](https://img.shields.io/badge/DS9-333333?logo=gnometerminal\&logoColor=white)
 
 ---
 
 ### 🌐 App & Web Development
-![MERN](https://img.shields.io/badge/MERN-3FA037?logo=react&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white)
+
+![MERN](https://img.shields.io/badge/MERN-3FA037?logo=react\&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel\&logoColor=white)
 
 ### AI Coding Assistants
 
-![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?logo=githubcopilot&logoColor=white)
-![OpenAI Codex](https://img.shields.io/badge/OpenAI%20Codex-412991?logo=openai&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?logo=githubcopilot\&logoColor=white)
+![OpenAI Codex](https://img.shields.io/badge/OpenAI%20Codex-412991?logo=openai\&logoColor=white)
 
 ---
 
 ## 🏆 Featured Projects
+
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
 <h3>🚀 PromptEval</h3>
-<p>LLM evaluation tool with automated test case generation and real-time grading via Groq API for prompt optimization.</p>
+<p>LLM evaluation tool with automated test case generation and real-time grading via the Groq API for prompt optimization.</p>
 <code>Groq API</code> <code>LLMs</code> <code>Automation</code>
 </td>
 <td width="50%" valign="top">
 <h3>🎲 Quantum Galton Board</h3>
-<p>A quantum-inspired probability simulator exploring wave-function collapses through a digital Galton board.</p>
+<p>A quantum-inspired probability simulator exploring wave function collapse through a digital Galton board.</p>
 <code>Python</code> <code>Qiskit</code> <code>NumPy</code>
 </td>
 </tr>
+
 <tr>
 <td width="50%" valign="top">
 <h3>🌌 DraQ: Astro-Escape</h3>
@@ -167,23 +179,25 @@ Fresh CSE Graduate building production ready AI Systems, AI Evaluation Framework
 <code>Unreal Engine 5</code> <code>C++</code> <code>Blueprints</code>
 </td>
 <td width="50%" valign="top">
-<h3>🤖 The Al-Codist</h3>
-<p>AI-powered assistant specialized in refactoring, bug-hunting, and explaining complex codebases.</p>
+<h3>🤖 The AI-Codist</h3>
+<p>An AI-powered assistant specialized in refactoring, bug hunting, and explaining complex codebases.</p>
 <code>Machine Learning</code> <code>Python</code> <code>NLP</code>
 </td>
 </tr>
+
 <tr>
 <td width="50%" valign="top">
 <h3>🌠 GW Parameter Estimator</h3>
-<p>Leveraging ML to estimate parameters of gravitational waves from astronomical signal data.</p>
+<p>Leveraging ML to estimate gravitational-wave parameters from astronomical signal data.</p>
 <code>Astropy</code> <code>TensorFlow</code> <code>Physics</code>
 </td>
 <td width="50%" valign="top">
 <h3>🔭 Astro-AI</h3>
-<p>Integrated galaxy evolution platform featuring JWST analysis, Bagpipes SED fitting, and 21cmFAST simulations.</p>
+<p>An integrated galaxy evolution platform featuring JWST analysis, Bagpipes SED fitting, and 21cmFAST simulations.</p>
 <code>Astrophysics</code> <code>Bagpipes</code> <code>Simulation</code>
 </td>
 </tr>
+
 <tr>
 <td width="50%" valign="top">
 <h3>🎮 Mini Game DSL</h3>
@@ -192,20 +206,21 @@ Fresh CSE Graduate building production ready AI Systems, AI Evaluation Framework
 </td>
 <td width="50%" valign="top">
 <h3>📱 Mobile Game Engine</h3>
-<p>A Dart/Flutter based 2D mobile game engine designed for high-performance mobile devices.</p>
+<p>A Dart/Flutter-based 2D mobile game engine designed for high-performance mobile devices.</p>
 <code>Dart</code> <code>Flutter</code> <code>Game Engine</code>
 </td>
 </tr>
+
 <tr>
 <td width="50%" valign="top">
 <h3>🕌 Muslim Buddy</h3>
-<p>Spiritual tracking platform with astronomical prayer calculations and community leaderboards.</p>
+<p>A spiritual tracking platform with astronomical prayer calculations and community leaderboards.</p>
 <code>Laravel</code> <code>PHP</code> <code>Astronomy API</code>
 </td>
 <td width="50%" valign="top">
 <h3>📜 Sanatan Scriptures</h3>
-<p>Interactive web platform for exploring and analyzing ancient Sanatan Dharma texts.</p>
-<code>Laravel</code> <code>Php</code> <code>Database</code>
+<p>An interactive web platform for exploring and analyzing ancient Sanatan Dharma texts.</p>
+<code>Laravel</code> <code>PHP</code> <code>Database</code>
 </td>
 </tr>
 </table>
@@ -216,16 +231,22 @@ Fresh CSE Graduate building production ready AI Systems, AI Evaluation Framework
 
 I build with production reliability in mind from day one, not as an afterthought.
 
-- **Type-safe by default** — Pydantic-first data validation across services and AI pipelines
-- **Standards-aligned** — engineering practices informed by ISO/IEC/IEEE conventions, the ACM Code of Ethics, and Washington Accord competency principles
-- **Open source minded** — clean documentation, reproducible experiments, CI-backed workflows
-- **Research mindset** — comfortable moving between shipped product code and experimental AI/ML research
+* **Type-safe by default** — Pydantic-first data validation across services and AI pipelines
+* **Standards-aligned** — engineering practices informed by ISO/IEC/IEEE conventions, the ACM Code of Ethics, and Washington Accord competency principles
+* **Open-source minded** — clean documentation, reproducible experiments, and CI-backed workflows
+* **Research mindset** — comfortable moving between shipped product code and experimental AI/ML research
 
 ---
 
+# Dedicated to *hirers* and *recruiters*
+
+> "A full commitment's what I'm thinking of,
+> You wouldn't get this from any other guy."
+> — Rick Astley
+
 <div align="center">
   <img src="https://media.giphy.com/media/Vuw9m5wXviFIQ/giphy.gif" width="600" alt="Rickroll" />
-  
+
   <p align="center">
     <b>Curiosity gets you rickrolled 😏</b><br>
   </p>
