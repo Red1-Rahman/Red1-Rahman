@@ -69,7 +69,7 @@ Building **production-ready AI systems and AI evaluation frameworks**. Conductin
 
 | Name | Description | Link |
 |---|---|---|
-| PMRAM: Bangladeshi Brain Cancer - MRI Dataset | This Bangladeshi Brain Cancer MRI Dataset is a large collection of magnetic resonance imaging (MRI) images created to support medical diagnosis and brain cancer research. It contains 1,600 raw images (400 per class) and 6,000 images after augmentation, evenly distributed across four categories: Glioma (1,500 images), Meningioma (1,500 images), Pituitary (1,500 images), and No Tumor (1,500 images). | [PMRAM](https://data.mendeley.com/datasets/m7w55sw88b/1) |
+| PMRAM: Bangladeshi Brain Cancer - MRI Dataset | This Bangladeshi Brain Cancer MRI Dataset is a large collection of magnetic resonance imaging (MRI) images created to support medical diagnosis and brain cancer research. It contains 1,600 raw images (400 per class) and 6,000 images after augmentation, evenly distributed across four categories: Glioma (1,500 images), Meningioma (1,500 images), Pituitary (1,500 images), and No Tumor (1,500 images). `CC BY 4.0` | [PMRAM](https://data.mendeley.com/datasets/m7w55sw88b/1) |
 
 
 ## ⚡ Tech Stack
