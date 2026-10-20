@@ -41,10 +41,11 @@ Building **production-ready AI systems and AI evaluation frameworks**. Conductin
 <details>
 <summary><b>Game Dev Projects</b></summary>
 
-| Project | Overview | Stack |
-|---|---|---|
-| **DraQ: Astro-Escape** | Immersive UE5 experience blending quantum mechanics with high-octane space exploration gameplay. | `Unreal Engine 5` `C++` `Blueprints` |
-| [**Cosmic Detective**](https://github.com/YeadMuhammad/Cosmic-Detective) | Space-themed detective game. | `Game Dev` |
+| Project | Overview | Stack | Team Size
+|---|---|---|---|
+| [**DraQ: Astro-Escape**](https://itch.io/jam/quantum-game-jam-2025/rate/3867893) | Immersive UE5 experience blending quantum mechanics with high-octane space exploration gameplay. | `Unreal Engine 5` `C++` `Blueprints` | 3 |
+| [**Cosmic Detective**](https://github.com/YeadMuhammad/Cosmic-Detective) | Space-themed detective game. | `Game Dev` `SphereX` | 5 |
+| [**Cosmic Chaos**](https://github.com/Red1-Rahman/Cosmic-Chaos) | A cosmic comedy where one capybara's mistake throws the universe into chaos. [itch.io](https://redwan1127.itch.io/cosmic-chaos) | `HTML5` | 1 |
 
 </details>
 
