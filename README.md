@@ -1,8 +1,8 @@
 # Hi there, I'm Redwan Rahman!
 
 Building **production-ready AI systems and AI evaluation frameworks**. Conducting research in **Game AI and AI for Game Development**.
-> MSc in CSE @ Brac University   
-> BSc in CSE @ Daffodil International Unversity
+> **MSc** in **Computer Science and Engineering** @ **Brac University**  
+> **BSc** in **Computer Science and Engineering** @ **Daffodil International University**
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
